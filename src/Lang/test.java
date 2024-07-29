@@ -1,1 +1,6 @@
-package Lang; class Compiler extends Logic{ void start(){ print("hello word!"); } } 
+package Lang; 
+class Compiler extends Logic{ 
+  void start(){
+  print("hello word!"); 
+  } 
+} 
